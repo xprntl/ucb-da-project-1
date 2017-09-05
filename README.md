@@ -12,6 +12,6 @@ After platforms were selected we scrapped all related tweets / campaigns and sub
 
 ##Contibutors
 
-| [nbotelho](https://github.com/nbotelho) |
-| [shaifalisingh](https://github.com/shaifalisingh) |
+|  [nbotelho](https://github.com/nbotelho) 
+| [shaifalisingh](https://github.com/shaifalisingh)
 | [xprntl](https://github.com/xprntl) |
